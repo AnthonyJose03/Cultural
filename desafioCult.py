@@ -17,9 +17,9 @@ with tab1:
     # coluna de imagem
     col1, col2 = st.columns(2)
     with col1:
-        st.image("criança_triste(1).jpg", caption="Imagem representativa")
+        st.image("crianca_triste(1).jpg", caption="Imagem representativa")
     with col2:
-        st.image("criança_triste(2).jpg", caption="Imagem representativa")
+        st.image("crianca_triste(2).jpg", caption="Imagem representativa")
 
     # texto
     st.write("""
